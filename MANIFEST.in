@@ -1,0 +1,6 @@
+include ChangeLog
+include README.rst
+
+exclude .gitignore
+
+global-exclude *.pyc
