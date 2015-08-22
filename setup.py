@@ -26,7 +26,7 @@ with open("README.rst", "r") as readme:
 
 setup(
     name='speedlimit',
-    version='0.1',
+    version='0.1.1',
     description='A python package provides speed limiting iterators'
                 ' other various helpers using the leaky token bucket'
                 ' algorithm.',
