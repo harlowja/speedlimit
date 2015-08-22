@@ -35,7 +35,6 @@ setup(
     url='https://github.com/harlowja/speedlimit',
     license="ASL 2.0",
     install_requires=[
-        'six',
         'monotonic',
     ],
     classifiers=[
