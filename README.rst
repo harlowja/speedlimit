@@ -2,6 +2,9 @@
 Speed limit
 ===========
 
+.. image:: https://travis-ci.org/harlowja/speedlimit.png?branch=master
+   :target: https://travis-ci.org/harlowja/speedlimit
+
 Speed limit utilities that use the `token bucket`_ algorithm internally.
 
 An example::
